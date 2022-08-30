@@ -6,7 +6,7 @@ API documentation: [API](https://www.notion.so/d0ebe08a5e304a55928405eb682f6741)
 
 TODO:
 
-- [ ] add ci
+- [x] add ci
 - [ ] add tests
 - [ ] add http options
 - [ ] add error handling (specify error)
