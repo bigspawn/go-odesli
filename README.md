@@ -2,7 +2,7 @@
 
 Go client for [odesli.co](odesli.co) API.
 
-API documentation: [API](https://www.notion.so/d0ebe08a5e304a55928405eb682f6741)
+[Documentation](https://www.notion.so/d0ebe08a5e304a55928405eb682f6741).
 
 TODO:
 
